@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  ᠪᠢᠴᠢᠭ
+latin: bichig
 date:   2026-02-25 11:59:23 +0800
 categories: jekyll update
 ---
